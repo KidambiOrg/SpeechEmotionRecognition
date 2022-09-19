@@ -6,6 +6,15 @@ This feature leverage ML.NET to train and predict properties of the audio file. 
 
 *Note*: The explanation of the Audio properties was gotten from the site mentioned in the credit section.
 
+## Emotion Detected
+- Calm
+- Happy
+- Sad
+- Angry
+- Fearful
+- Disgust
+- and Surprise, along with a baseline of Neutral for each actor
+
 ## Audio Properties
 
 -  **Mel scale** — deals with human perception of frequency, it is a scale of pitches judged by listeners to be equal distance from each other
